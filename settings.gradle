@@ -1,0 +1,4 @@
+include ':algorithmlib'
+include ':algorithmlib'
+include ':app'
+rootProject.name = "AlgorithmRep"
